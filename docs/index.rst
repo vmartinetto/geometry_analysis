@@ -3,13 +3,22 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to geometry_analysis's documentation!
+Overview
 =========================================================
+
+This module has a Molecule object and provides spme manipulation.
+
+Avalaible techniques:
+ 
+ - distance
+ - bonds
+
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   something
 
 
 Indices and tables
