@@ -19,6 +19,7 @@ Avalaible techniques:
    :caption: Contents:
 
    something
+   api
 
 
 Indices and tables
